@@ -1,4 +1,4 @@
- const markdownInput = document.getElementById("markdown-input");
+const markdownInput = document.getElementById("markdown-input");
 const htmlOutput = document.getElementById("html-output");
 const preview = document.getElementById("preview");
 
